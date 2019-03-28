@@ -1,27 +1,21 @@
 . {
     margin: 0px;
-    
-
 }
 
 body {
-    
     margin: 0px;
-    
 }
 
 img {
     display: inline-block;
     position: static;
     margin-top: 180px;
-    width: 270px;
-    
+    width: 270px;    
 }
 
 .featured {
     width: 100%;
     text-align: center;
-    
 }
 
 .nav {
@@ -78,7 +72,6 @@ input {
     border-color: #ddd;
     border-width: 1px;
     border-style: solid;
-    
     text-decoration: none;
 }
 
@@ -142,18 +135,14 @@ p {
     position: static;
     width: 100%;
     padding: 0px;
-    
     margin: 0px;
     border-top: 1px solid lightgrey;
-
-
 }
 
 .lsettings {
     color: #666;
     display: inline-block;
     padding: 15px 20px;
-    
 }
 
 .rsettings {
@@ -165,4 +154,3 @@ p {
 .slinks {
     color: #666;
 }
-

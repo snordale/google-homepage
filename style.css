@@ -1,0 +1,168 @@
+. {
+    margin: 0px;
+    
+
+}
+
+body {
+    
+    margin: 0px;
+    
+}
+
+img {
+    display: inline-block;
+    position: static;
+    margin-top: 180px;
+    width: 270px;
+    
+}
+
+.featured {
+    width: 100%;
+    text-align: center;
+    
+}
+
+.nav {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+
+.leftnav {
+    margin-left: 10px;
+    margin-top: 15px;
+    float: left;
+}
+
+.rightnav {
+    margin-right: 15px;
+    margin-top: 15px;
+    float: right;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+a rightlinks {
+    padding: 0px;
+}
+
+.icon {
+    vertical-align: middle;
+    margin-right: 5px;
+    margin-top: 0px;
+    padding: 0px;
+    padding-left: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+#profile {
+    height: 30px;
+    width: 30px;
+}
+
+input {
+    margin-top: 20px;
+    padding: 10px 20px;
+    height: 24px;
+    width: 500px;
+    border-radius: 30px;
+    border-color: #ddd;
+    border-width: 1px;
+    border-style: solid;
+    
+    text-decoration: none;
+}
+
+input:focus {
+    outline: none;
+    text-decoration: none;
+}
+
+button {
+    font-size: 14px;
+    color: #666;
+    padding: 10px 20px;
+    border-width: 0px;
+    background-color: #eee;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+.btns {
+    padding 50px;
+    
+}
+
+.sbtns {
+    padding: 20px;
+}
+
+p {
+    font-family: sans-serif;
+    margin: 0px;
+    font-size: 14px;
+    color: #777;
+}
+
+.footer {
+    margin: 0px;
+    width: 100%;
+    padding: 0px;
+    display: inline-block;
+    position: absolute;
+    font-family: sans-serif;
+    color: #666;
+    bottom: 0px;
+    background-color: #eee;
+}
+
+.location {
+    width: 100%;
+    padding: 0px;
+    
+    text-align: left;
+    margin: 0px;
+}
+
+#country {
+    display: inline-block;
+    padding: 15px 30px;
+}
+
+.settings {
+    position: static;
+    width: 100%;
+    padding: 0px;
+    
+    margin: 0px;
+    border-top: 1px solid lightgrey;
+
+
+}
+
+.lsettings {
+    color: #666;
+    display: inline-block;
+    padding: 15px 20px;
+    
+}
+
+.rsettings {
+    float: right;
+    display: inline-block;
+    padding: 15px 20px;
+}
+
+.slinks {
+    color: #666;
+}
+
